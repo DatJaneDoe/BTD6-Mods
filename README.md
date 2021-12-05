@@ -5,13 +5,13 @@ Mods for BTD6 I have created
 Descriptions recent mods:
 
 
----Looping Boss Mods---
+##Looping Boss Mods
 
 These spawn on round 3 alongside normal rounds. When they reach the exit, they drain a small yet increasing amount of lives then loop to the start. Each have unique abilities
 
 StrikerBlons:
--Fires missiles that debuff towers in an area of effect
--Occasionally places a time bomb that must be destroyed in under 50 seconds or else it will stun all your towers and drain a lot of lives.
+- Fires missiles that debuff towers in an area of effect
+- Occasionally places a time bomb that must be destroyed in under 50 seconds or else it will stun all your towers and drain a lot of lives.
 
 Elite mode can be toggled in ModSettings
 
@@ -66,8 +66,3 @@ Place 3 230 Super Monkeys and one 240 to create a Robo Spider
 Genetic Engineer:
 
 Place a 5xx Alchemist and 5xx Engineer to create a Genetic Engineer. Can take behaviors from towers and place them on others temporarily.
-
-
-
-
-
