@@ -1,0 +1,25 @@
+C:\Users\Naoki Price\source\repos\BossTemplate\obj\Debug\UntitledBoss.csproj.CoreCompileInputs.cache
+C:\Users\Naoki Price\source\repos\BossTemplate\obj\Debug\BossTemplate.dll
+C:\Users\Naoki Price\source\repos\BossTemplate\obj\Debug\BossTemplate.pdb
+C:\Users\Naoki Price\source\repos\BossTemplate\obj\Debug\UntitledBoss.csprojAssemblyReference.cache
+C:\Users\Naoki Price\source\repos\ChamelonRemake\BossTemplate\obj\Debug\UntitledBoss.csproj.CoreCompileInputs.cache
+C:\Users\Naoki Price\source\repos\ChamelonRemake\BossTemplate\obj\Debug\BossTemplate.dll
+C:\Users\Naoki Price\source\repos\ChamelonRemake\BossTemplate\obj\Debug\BossTemplate.pdb
+C:\Users\Program Files (x86)\Steam\steamapps\common\BloonsTD6\Mods\BossTemplate.dll
+C:\Users\Naoki Price\source\repos\ChamelonRemake\BossTemplate\obj\Debug\UntitledBoss.csproj.CopyComplete
+C:\Users\Naoki Price\source\repos\ChamelonRemake\BossTemplate\obj\Debug\UntitledBoss.csprojAssemblyReference.cache
+C:\Users\Naoki Price\source\repos\DreadBloon\BossTemplate\obj\Debug\UntitledBoss.csproj.CoreCompileInputs.cache
+C:\Users\Naoki Price\source\repos\DreadBloon\BossTemplate\obj\Debug\BossTemplate.dll
+C:\Users\Naoki Price\source\repos\DreadBloon\BossTemplate\obj\Debug\BossTemplate.pdb
+C:\Users\Naoki Price\source\repos\DreadBloon\BossTemplate\obj\Debug\UntitledBoss.csprojAssemblyReference.cache
+C:\Users\Naoki Price\source\repos\BossMods\DreadBloon\BossTemplate\obj\Debug\UntitledBoss.csprojAssemblyReference.cache
+C:\Users\Naoki Price\source\repos\BossMods\DreadBloon\BossTemplate\obj\Debug\UntitledBoss.csproj.CoreCompileInputs.cache
+C:\Program Files (x86)\Steam\steamapps\common\BloonsTD6\Mods\DreadBoss.dll
+C:\Program Files (x86)\Steam\steamapps\common\BloonsTD6\Mods\DreadBoss.pdb
+C:\Users\Naoki Price\source\repos\BossMods\DreadBloon\BossTemplate\obj\Debug\DreadBoss.dll
+C:\Users\Naoki Price\source\repos\BossMods\DreadBloon\BossTemplate\obj\Debug\DreadBoss.pdb
+C:\Users\naoki\Desktop\repos\BossTemplate\BossTemplate\obj\Debug\UntitledBoss.csproj.AssemblyReference.cache
+C:\Users\naoki\Desktop\repos\BossTemplate\BossTemplate\obj\Debug\UntitledBoss.csproj.CoreCompileInputs.cache
+C:\Users\naoki\Desktop\repos\BossTemplate\BossTemplate\obj\Debug\DreadBoss.dll
+C:\Users\naoki\Desktop\repos\BossTemplate\BossTemplate\obj\Debug\DreadBoss.pdb
+C:\Users\naoki\Desktop\repos\BossTemplate\BossTemplate\obj\Debug\UntitledBoss.csproj.CopyComplete
