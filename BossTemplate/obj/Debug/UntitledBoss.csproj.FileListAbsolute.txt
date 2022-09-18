@@ -1,5 +1,0 @@
-C:\Program Files (x86)\Steam\steamapps\common\BloonsTD6\Mods\BossTemplate.dll
-C:\Program Files (x86)\Steam\steamapps\common\BloonsTD6\Mods\BossTemplate.pdb
-C:\Users\Naoki Price\source\repos\BossTemplate\obj\Debug\UntitledBoss.csproj.CoreCompileInputs.cache
-C:\Users\Naoki Price\source\repos\BossTemplate\obj\Debug\BossTemplate.dll
-C:\Users\Naoki Price\source\repos\BossTemplate\obj\Debug\BossTemplate.pdb
