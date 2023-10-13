@@ -12,3 +12,8 @@ I will now leave BIG BOI mod in Tower Mods
 DJDTowerPack:
 
 Includes Necromancer, Teacher, Soldier, and Pizza towers, all in one!
+
+Note: It requires
+
+ModHelper(https://github.com/gurrenm3/BTD-Mod-Helper/releases/tag/3.1.15)
+
