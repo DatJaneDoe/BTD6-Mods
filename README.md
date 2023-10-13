@@ -7,7 +7,7 @@ I have accumulated a lot of simple mods here that are long broken and it seems n
 
 HOWEVER.
 
-I will now leave BIG BOI mod here.
+I will now leave BIG BOI mod in Tower Mods
 
 DJDTowerPack:
 
