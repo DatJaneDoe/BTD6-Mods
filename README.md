@@ -17,5 +17,5 @@ Note: It requires
 
 ModHelper(https://github.com/gurrenm3/BTD-Mod-Helper/releases/tag/3.1.15)
 
-PathPlusPlus
+
 
