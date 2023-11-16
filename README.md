@@ -17,5 +17,6 @@ Note: It requires
 
 ModHelper(https://github.com/gurrenm3/BTD-Mod-Helper/releases/tag/3.1.15)
 
+I do not provide the source code for my mods as I've had mods stolen in the past, but I am willing to explain how any mechanic in my mods work or show snippits of the source code on Timotheees BTD6 modding discord https://discord.gg/7ctsMYkF
 
 
