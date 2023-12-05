@@ -1,4 +1,4 @@
-namespace DatJaneDoeTowerPack;
+namespace DJDTowerPack;
 
 public static class ModHelperData
 {
