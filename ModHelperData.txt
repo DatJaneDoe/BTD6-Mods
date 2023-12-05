@@ -8,7 +8,8 @@ public static class ModHelperData
 
     public const string Description = "Adds Necromancer, Pizza, Soldier, and Teacher towers to the game";
 
+    public const string Icon = "pack1";
     public const string RepoOwner = "DatJaneDoe";
     public const string RepoName = "BTD6-Mods";
-    public const string DllName = "TowerMods/DJDTowerPack.dll";
+    public const string DllName = "/TowerMods/DJDTowerPack.dll";
 }
