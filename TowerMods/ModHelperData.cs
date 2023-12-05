@@ -13,5 +13,5 @@ public static class ModHelperData
     public const string RepoName = "BTD6-Mods";
     public const string DllName = "DJDTowerPack.dll";
 	
-	public const string SubPath = "DJDTowerPack";
+	public const string SubPath = "TowerMods";
 }
